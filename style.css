@@ -30,6 +30,15 @@
     display: inline-block;
 }
 
+.enlargebox{
+    position: relative;
+    width: 30px;
+    height: 30px;
+    margin: 100px;
+    display: inline-block;
+    background-color: rgb(255, 195, 106);
+}
+
 .red{ background-color: red}
 .blue{ background-color: blue}
 .green{ background-color: green}
