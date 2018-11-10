@@ -1,7 +1,7 @@
 anime({
     targets: 'div.box',
     translateY: [
-      { value: 150, duration: 500 },
+      { value: 150, duration: 400 },
       { value: 0, duration: 500 }
     ],
     rotate: {
